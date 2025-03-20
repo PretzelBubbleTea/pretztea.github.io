@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Pou Font';
+    src:url("fonts/Cookies.ttf");
+    font-weight: 200;
+}
+
+body {
+    font-family: 'Pou Font', Arial, sans-serif;
+    margin-top: 20px;
+    font-size: 150%;
+    text-align: center;
+}
+
+a {
+    color: #176786;
+}
