@@ -124,13 +124,13 @@ padding-left: .8em;
 }
 
 .container {
-max-width: 1000px;
-min-height: 50px;
+max-width: 80%;
+min-height: 50%;
 background-color: white;
 border-radius: 10px;
 margin: 0 auto;
 margin-bottom: 40px;
-padding: 20px 40px;
+padding: 20px 100px;
 }
 
 .container>.content,
